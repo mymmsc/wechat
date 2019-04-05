@@ -1,0 +1,15 @@
+github.com/KevinGong2013/wechat v0.0.0-20180103043605-7bb69ce2e5a5 h1:21AuoMgQPbbE/f5/FYc5vXike8CuOL2y2xo7U7zqKow=
+github.com/KevinGong2013/wechat v0.0.0-20180103043605-7bb69ce2e5a5/go.mod h1:dldRvKdrh77vB0RClKzWQI+/h5sYqynfaBxl1N8pGa4=
+github.com/Sirupsen/logrus v1.0.4 h1:yilvuj073Hm7wwwz12E96GjrdivMNuTMJk9ddjde+D8=
+github.com/Sirupsen/logrus v1.0.4/go.mod h1:rmk17hk6i8ZSAJkSDa7nOxamrG+SP4P0mm+DAvExv4U=
+github.com/golang/crypto v0.0.0-20180820150726-614d502a4dac h1:CTlcobgUKCEymD3P3693BUmy15cF1QiGji0PnANoptk=
+github.com/golang/crypto v0.0.0-20180820150726-614d502a4dac/go.mod h1:uZvAcrsnNaCxlh1HorK5dUQHGmEKPh2H/Rl1kehswPo=
+github.com/golang/sys v0.0.0-20180905080454-ebe1bf3edb3 h1:Cv0GuW6aUhdlbBgduOU78e6nhxnH2GyUL52f5YSt6NM=
+github.com/golang/sys v0.0.0-20180905080454-ebe1bf3edb3/go.mod h1:5JyrLPvD/ZdaYkT7IqKhsP5xt7aLjA99KXRtk4EIYDk=
+github.com/h2non/filetype v1.0.8 h1:le8gpf+FQA0/DlDABbtisA1KiTS0Xi+YSC/E8yY3Y14=
+github.com/h2non/filetype v1.0.8/go.mod h1:isekKqOuhMj+s/7r3rIeTErIRy4Rub5uBWHfvMusLMU=
+github.com/satori/go.uuid v1.1.0/go.mod h1:dA0hQrYB0VpLJoorglMZABFdXlWrHn1NEOzdhQKdks0=
+github.com/skratchdot/open-golang v0.0.0-20160302144031-75fb7ed4208c h1:fyKiXKO1/I/B6Y2U8T7WdQGWzwehOuGIrljPtt7YTTI=
+github.com/skratchdot/open-golang v0.0.0-20160302144031-75fb7ed4208c/go.mod h1:sUM3LWHvSMaG192sy56D9F7CNvL7jUJVXoqM1QKLnog=
+gopkg.in/h2non/filetype.v1 v1.0.5 h1:CC1jjJjoEhNVbMhXYalmGBhOBK2V70Q1N850wt/98/Y=
+gopkg.in/h2non/filetype.v1 v1.0.5/go.mod h1:M0yem4rwSX5lLVrkEuRRp2/NinFMD5vgJ4DlAhZcfNo=
