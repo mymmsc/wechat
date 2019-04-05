@@ -1,25 +1,16 @@
-# Compiled Object files, Static and Dynamic libs (Shared Objects)
-*.o
-*.a
-*.so
+.DS_Store
+.idea/
+target/
+*.iml
+assembly/version.env
+assembly/version.properties
 
-# Folders
-_obj
-_test
+# VS CODE
+.vscode/
+.classpath
+.factorypath
+.project
+.settings/
 
-# Architecture specific extensions/prefixes
-*.[568vq]
-[568vq].out
-
-*.cgo1.go
-*.cgo2.c
-_cgo_defun.c
-_cgo_gotypes.go
-_cgo_export.*
-
-_testmain.go
-
-*.exe
-*.test
-*.prof
-main
+# go.test.sh
+coverage.txt
